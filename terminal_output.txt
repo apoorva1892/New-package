@@ -1,0 +1,8 @@
+student@ubuntu:~$ rosrun nodes_practical move.py 
+Current Distance : 5
+Let's move your drone
+Input your speed:6
+Desire Distance:2
+Foward?: 0
+Current Distance : 1.97 Time(s) : 0.656666666668
+[INFO] [1593984160.284509, 574.939000]:
